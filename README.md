@@ -26,4 +26,5 @@ Clone repo and create ISO with mkarchiso:
 ```
 mkarchiso -v -o ./ archiso-liveusb-gnome
 ```
+
 Add more packages to [packages.x86_64](packages.x86_64) if needed.
